@@ -9,7 +9,7 @@
     <td align="center"><a href="https://github.com/24tngus"><img src="https://avatars.githubusercontent.com/u/68477988?v=4" width="120px;" alt=""/><br /><sub><b>김수현</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/mingkyeongg"><img src="https://avatars.githubusercontent.com/u/122078277?v=4" width="120px;" alt=""/><br /><sub><b>이민경</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/ykk-y"><img src="https://avatars.githubusercontent.com/u/93420214?v=4" width="120px;" alt=""/><br /><sub><b>김연경</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/kkimhyeran"><img src="https://avatars.githubusercontent.com/u/86935589?v=4"120px;" alt=""/><br /><sub><b>김혜란</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/kkimhyeran"><img src="https://avatars.githubusercontent.com/u/86935589?v=4"width ="120px;" alt=""/><br /><sub><b>김혜란</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/sul1074"><img src="https://avatars.githubusercontent.com/u/144888312?v=4" width="120px;" alt=""/><br /><sub><b>설종환</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/yunseoLee0343"><img src="https://avatars.githubusercontent.com/u/117894155?v=4" width="120px;" alt=""/><br /><sub><b>이윤서</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/olpu0613"><img src="https://avatars.githubusercontent.com/u/100187211?v=4" width="120px;" alt=""/><br /><sub><b>주소민</b></sub></a><br /></td>
