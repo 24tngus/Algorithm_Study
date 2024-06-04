@@ -81,10 +81,16 @@ ex) <br>
 | 발표자 | 김진근  | 발표자료  |
 | -- |------|-------|
 
-| Type | 문제 | 제목                                           | 유형  | rank |
-| -- |--|----------------------------------------------|-----|------|
-| BOJ | 거스름돈 | [거스름돈](https://www.acmicpc.net/problem/5585) | 그리디 | B2 |
-||||||
+| Type | 문제     | 번호                                             | 유형   | rank |
+|------|--------|------------------------------------------------|------|------|
+| BOJ  | 거스름돈   | [5585](https://www.acmicpc.net/problem/5585)   | 그리디  | B2   |
+| BOJ | 뒤집기 | [1439](https://www.acmicpc.net/problem/1439)   | 그리디  | S5   |
+| BOJ | ATM    | [11399](https://www.acmicpc.net/problem/11399) | 그리디  | S4   |
+| BOJ | 동전 0    | [11047](https://www.acmicpc.net/problem/11047) | 그리디  | S4   |
+| BOJ | 회의실 배정 | [1931](https://www.acmicpc.net/problem/1931)   | 그리디  | S1   |
+| BOJ | 강의실 배정 | [11000](https://www.acmicpc.net/problem/11000) | 그리디  | G5   |
+| BOJ | 단어 수학 | [1339](https://www.acmicpc.net/problem/1439)   | 그리디  | G4   |
+
 
 
 
